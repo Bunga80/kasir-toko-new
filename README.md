@@ -1,25 +1,27 @@
 # Aplikasi Kasir Toko
 
-Aplikasi Kasir Toko merupakan sistem yang dibuat menggunakan framework Laravel untuk membantu proses transaksi penjualan pada toko.
+Aplikasi Kasir Toko adalah sistem berbasis web yang dibuat menggunakan framework Laravel untuk membantu proses transaksi penjualan di toko.
 
-## Fitur Aplikasi
+## Fitur
 - Login Admin
-- Manajemen Data Barang
-- Manajemen Data Transaksi
-- Laporan Penjualan
 - Dashboard
+- Manajemen Data Barang
+- Transaksi Penjualan
+- Laporan Penjualan
 
-## Teknologi yang Digunakan
+## Teknologi
 - Laravel
 - PHP
 - MySQL
 - Bootstrap
 
-## Cara Menjalankan Project
-1. Clone repository
-2. Jalankan `composer install`
-3. Atur file `.env`
-4. Jalankan `php artisan serve`
+## Repository
+Source code tersedia di:
+https://github.com/Bunga80/kasir-toko-new
 
-## Author
+## Tampilan Aplikasi
+
+![Dashboard](screenshot/Supermarket-Home-03-03-2026_08_18_PM)
+
+## Developer
 Bunga Amelia
