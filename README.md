@@ -21,7 +21,7 @@ https://github.com/Bunga80/kasir-toko-new
 
 ## Tampilan Aplikasi
 
-![Dashboard](screenshot/Supermarket-Home-03-03-2026_08_18_PM)
+![Dashboard](screenshot/dashboard.png)
 
 ## Developer
 Bunga Amelia
